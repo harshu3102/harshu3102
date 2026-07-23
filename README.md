@@ -24,7 +24,6 @@
 
 ---
 
-<!-- 2. About Section -->
 ## 👩‍💻 About Me
 DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipelines, cloud infrastructure automation, and high-availability systems for financial clients. Skilled in AWS, Jenkins, Docker, Kubernetes, Terraform, and Ansible. Passionate about AI/ML integration into DevOps workflows, full-stack development, and product engineering with a focus on scalability, reliability, and security.
 
@@ -36,7 +35,6 @@ DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipe
 
 ---
 
-<!-- 3. Tech Stack Section -->
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -53,7 +51,6 @@ DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipe
 
 ---
 
-<!-- 4. AI / ML Expertise Section -->
 ## 🤖 AI / ML Expertise
 
 | Domain              | Proficiency | Details |
@@ -64,7 +61,6 @@ DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipe
 
 ---
 
-<!-- 5. Featured Projects Section -->
 ## 🚀 Featured Projects
 
 <details>
@@ -91,7 +87,6 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 ---
 
-<!-- 6. Experience Section -->
 ## 💼 Experience
 
 **DevOps Engineer**  
@@ -108,7 +103,6 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 ---
 
-<!-- 7. Achievements Section -->
 ## 🏆 Achievements
 
 | Recognition | Details |
@@ -119,24 +113,6 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 ---
 
-<!-- 8. Certifications Section -->
-## 🎓 Certifications
-
-**AWS**  
-![AWS](https://img.shields.io/badge/AWS-Certified-8A2BE2?style=for-the-badge&logo=amazonaws)
-
-**Oracle**  
-![Oracle](https://img.shields.io/badge/Oracle-Certified-8A2BE2?style=for-the-badge&logo=oracle)
-
-**NPTEL**  
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-8A2BE2?style=for-the-badge&logo=academia)
-
-**Cisco**  
-![Cisco](https://img.shields.io/badge/Cisco-Certified-8A2BE2?style=for-the-badge&logo=cisco)
-
----
-
-<!-- 9. Coding Profiles Section -->
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -148,9 +124,25 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 ---
 
-<!-- 10. GitHub Analytics Section -->
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harithamarpu&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2"/>
-  <img src="https://github-readme-st
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harithamarpu&theme=radical&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithamarpu&layout=compact&theme=radical&title_color=8A2BE2"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harithamarpu&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harithamarpu&theme=react-dark&color=8A2BE2&
