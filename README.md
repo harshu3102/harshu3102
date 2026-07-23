@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C_India-8A2BE2?style=for-the-badge&logo=google-maps"/>
   <a href="mailto:harithamarpu8787@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/></a>
   <a href="https://linkedin.com/in/haritha-marpu"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/harithamarpu"><img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/harshu3102"><img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/></a>
   <a href="https://portfolio.haritha.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harithamarpu&color=8A2BE2&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/harithamarpu?style=flat-square&color=8A2BE2"/>
-  <img src="https://img.shields.io/github/stars/harithamarpu?style=flat-square&color=8A2BE2"/>
+  <img src="https://komarev.com/ghpvc/?username=harshu3102&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/harshu3102?style=flat-square&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/harshu3102?style=flat-square&color=8A2BE2"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Automated AWS multi-region infrastructure provisioning using Terraform and Ansib
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Terraform, Ansible, AWS | Multi-region | 99.9% uptime | IAM, VPC, PKI | Reduced deployment time by 50% | [GitHub Repo](https://github.com/harithamarpu/cloud-infra-automation) |
+| Terraform, Ansible, AWS | Multi-region | 99.9% uptime | IAM, VPC, PKI | Reduced deployment time by 50% | [GitHub Repo](https://github.com/harshu3102/cloud-infra-automation) |
 
 </details>
 
@@ -81,7 +81,7 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Jenkins, Maven, GitHub Actions | 20+ clients | 30% faster releases | SonarQube, Trivy | 100% deployment success | [GitHub Repo](https://github.com/harithamarpu/cicd-pipeline) |
+| Jenkins, Maven, GitHub Actions | 20+ clients | 30% faster releases | SonarQube, Trivy | 100% deployment success | [GitHub Repo](https://github.com/harshu3102/cicd-pipeline) |
 
 </details>
 
@@ -116,10 +116,10 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/harithamarpu"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://geeksforgeeks.org/user/harithamarpu"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-8A2BE2?style=for-the-badge&logo=geeksforgeeks"/></a>
-  <a href="https://hackerrank.com/harithamarpu"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank"/></a>
-  <a href="https://codechef.com/users/harithamarpu"><img src="https://img.shields.io/badge/CodeChef-Profile-8A2BE2?style=for-the-badge&logo=codechef"/></a>
+  <a href="https://leetcode.com/harshu3102"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://geeksforgeeks.org/user/harshu3102"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-8A2BE2?style=for-the-badge&logo=geeksforgeeks"/></a>
+  <a href="https://hackerrank.com/harshu3102"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://codechef.com/users/harshu3102"><img src="https://img.shields.io/badge/CodeChef-Profile-8A2BE2?style=for-the-badge&logo=codechef"/></a>
 </p>
 
 ---
@@ -127,9 +127,9 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harithamarpu&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harithamarpu&theme=radical&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithamarpu&layout=compact&theme=radical&title_color=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshu3102&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshu3102&theme=radical&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu3102&layout=compact&theme=radical&title_color=8A2BE2"/>
 </p>
 
 ---
@@ -137,7 +137,7 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harithamarpu&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshu3102&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers"/>
 </p>
 
 ---
@@ -145,4 +145,4 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harithamarpu&theme=react-dark&color=8A2BE2&
+  <img src="https
