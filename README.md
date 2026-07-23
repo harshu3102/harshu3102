@@ -1,21 +1,156 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=Hi%20There,%20I'm%20Haritha%20Marpu&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Automation%20Specialist&amp;descAlignY=55&amp;descSize=18"/><a href="https://github.com/harshu3102">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Automating+infrastructure+for+high-availability+financial+systems;CI%2FCD+%7C+IaC+%7C+Containers+%7C+Cloud+%7C+Zero-Downtime+Deployments;3%2B+Years+Engineering+Reliable+Release+Pipelines+for+Banking+Clients;Terraform+%7C+Ansible+%7C+Jenkins+%7C+Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
-</a><br/><img src="https://img.shields.io/badge/B.S.+Computer+Science-6D28D9?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Andhra%20University%2C%202022-7C3AED?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Based%20in-Visakhapatnam%2C%20India-8B5CF6?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Relocate-A78BFA?style=flat-square&amp;logo=airplane&amp;logoColor=white" /><br/><br/>
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/haritha-marpu">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-<a href="mailto:marpuharitha2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
-<a href="https://github.com/harshu3102">
-  <img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a><br/><br/>
-<img src="https://komarev.com/ghpvc/?username=harshu3102&amp;style=flat-square&amp;color=8b5cf6&amp;label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/harshu3102?style=flat-square&amp;color=7c3aed&amp;label=Followers&amp;logo=github" />
-<img src="https://img.shields.io/github/stars/harshu3102?style=flat-square&amp;color=6d28d9&amp;label=Stars&amp;logo=github" /></div><br/>
+<!-- 1. Animated Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Haritha%20Marpu&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=8A2BE2&width=600&lines=DevOps+Engineer+%7C+Cloud+Solutions;CI%2FCD+Automation+%7C+Infrastructure+as+Code;Full+Stack+Engineering+Mindset;AI%2FML+Exploration+%7C+Open+Source+Contributor"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Sc_Computer_Science-Andhra_University-8A2BE2?style=for-the-badge&logo=academia"/>
+  <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C_India-8A2BE2?style=for-the-badge&logo=google-maps"/>
+  <a href="mailto:harithamarpu8787@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/haritha-marpu"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/harithamarpu"><img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/></a>
+  <a href="https://portfolio.haritha.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harithamarpu&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/harithamarpu?style=flat-square&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/harithamarpu?style=flat-square&color=8A2BE2"/>
+</p>
+
+---
+
+<!-- 2. About Section -->
+## 👩‍💻 About Me
+DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipelines, cloud infrastructure automation, and high-availability systems for financial clients. Skilled in AWS, Jenkins, Docker, Kubernetes, Terraform, and Ansible. Passionate about AI/ML integration into DevOps workflows, full-stack development, and product engineering with a focus on scalability, reliability, and security.
+
+**Open To:**  
+- Cloud Engineering Roles  
+- AI/ML Engineering Opportunities  
+- Full Stack Product Development  
+- Open Source Collaboration  
+
+---
+
+<!-- 3. Tech Stack Section -->
+## 🛠 Tech Stack
+
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python) ![Bash](https://skillicons.dev/icons?i=bash) ![Shell](https://skillicons.dev/icons?i=linux)
+
+**Frontend**  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react)
+
+**Backend & Databases**  
+![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Java](https://skillicons.dev/icons?i=java) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Cloud, DevOps & Tooling**  
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+<!-- 4. AI / ML Expertise Section -->
+## 🤖 AI / ML Expertise
+
+| Domain              | Proficiency | Details |
+|---------------------|-------------|---------|
+| Machine Learning    | Intermediate | Exploring ML models for DevOps automation |
+| NLP                 | Beginner     | Text-based automation scripts |
+| Predictive Analytics| Intermediate | Cloud monitoring & anomaly detection |
+
+---
+
+<!-- 5. Featured Projects Section -->
+## 🚀 Featured Projects
+
+<details>
+<summary><b>Cloud Infra Automation</b></summary>
+
+Automated AWS multi-region infrastructure provisioning using Terraform and Ansible.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|-------|-------|-------------|----------|--------|------------|
+| Terraform, Ansible, AWS | Multi-region | 99.9% uptime | IAM, VPC, PKI | Reduced deployment time by 50% | [GitHub Repo](https://github.com/harithamarpu/cloud-infra-automation) |
+
+</details>
+
+<details>
+<summary><b>CI/CD Pipeline Optimization</b></summary>
+
+Developed Jenkins pipelines integrated with GitHub Actions for Java applications.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|-------|-------|-------------|----------|--------|------------|
+| Jenkins, Maven, GitHub Actions | 20+ clients | 30% faster releases | SonarQube, Trivy | 100% deployment success | [GitHub Repo](https://github.com/harithamarpu/cicd-pipeline) |
+
+</details>
+
+---
+
+<!-- 6. Experience Section -->
+## 💼 Experience
+
+**DevOps Engineer**  
+*Betamonks Technology Factory Pvt Ltd*  
+*Aug 2022 – Present*  
+
+- Automated infrastructure provisioning using Terraform  
+- Developed Ansible playbooks for configuration management  
+- Integrated Jenkins pipelines with Git repositories  
+- Implemented Git branching strategies (GitFlow, feature branching)  
+- Streamlined build/test processes with Maven  
+
+**Skills:** Terraform, Ansible, Jenkins, Git, AWS, Maven, CI/CD, IaC  
+
+---
+
+<!-- 7. Achievements Section -->
+## 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| Deployment Success | Achieved 100% deployment success across 20+ banking clients |
+| System Uptime | Maintained 99.9% uptime in financial systems |
+| Release Optimization | Reduced release cycle time by 30% |
+
+---
+
+<!-- 8. Certifications Section -->
+## 🎓 Certifications
+
+**AWS**  
+![AWS](https://img.shields.io/badge/AWS-Certified-8A2BE2?style=for-the-badge&logo=amazonaws)
+
+**Oracle**  
+![Oracle](https://img.shields.io/badge/Oracle-Certified-8A2BE2?style=for-the-badge&logo=oracle)
+
+**NPTEL**  
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-8A2BE2?style=for-the-badge&logo=academia)
+
+**Cisco**  
+![Cisco](https://img.shields.io/badge/Cisco-Certified-8A2BE2?style=for-the-badge&logo=cisco)
+
+---
+
+<!-- 9. Coding Profiles Section -->
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/harithamarpu"><img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://geeksforgeeks.org/user/harithamarpu"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-8A2BE2?style=for-the-badge&logo=geeksforgeeks"/></a>
+  <a href="https://hackerrank.com/harithamarpu"><img src="https://img.shields.io/badge/HackerRank-Profile-8A2BE2?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://codechef.com/users/harithamarpu"><img src="https://img.shields.io/badge/CodeChef-Profile-8A2BE2?style=for-the-badge&logo=codechef"/></a>
+</p>
+
+---
+
+<!-- 10. GitHub Analytics Section -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harithamarpu&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2"/>
+  <img src="https://github-readme-st
