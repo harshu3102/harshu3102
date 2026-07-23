@@ -153,5 +153,6 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshu3102/harshu3102/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/harshu3102/harshu3102/output/snake.svg"/>
 </p>
+
