@@ -137,8 +137,9 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshu3102&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshu3102&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
+
 
 ---
 
