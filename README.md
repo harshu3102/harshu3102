@@ -134,8 +134,6 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 
 ---
 
----
-
 ## 🏅 GitHub Trophies
 
 <p align="center">
