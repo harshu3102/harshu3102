@@ -13,7 +13,6 @@
   <a href="mailto:marpuharitha2001@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail"/></a>
   <a href="https://linkedin.com/in/haritha-marpu"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/harshu3102"><img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/></a>
-  <a href="https://portfolio.haritha.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel"/></a>
 </p>
 
 <p align="center">
