@@ -69,4 +69,54 @@ DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipe
 Automated AWS multi-region infrastructure provisioning using Terraform and Ansible.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
-|-------|-------
+|-------|-------|-------------|----------|--------|------------|
+| Terraform, Ansible, AWS | Multi-region | 99.9% uptime | IAM, VPC, PKI | Reduced deployment time by 50% | [GitHub Repo](https://github.com/harshu3102/cloud-infra-automation) |
+
+</details>
+
+<details>
+<summary><b>CI/CD Pipeline Optimization</b></summary>
+
+Developed Jenkins pipelines integrated with GitHub Actions for Java applications.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|-------|-------|-------------|----------|--------|------------|
+| Jenkins, Maven, GitHub Actions | 20+ clients | 30% faster releases | SonarQube, Trivy | 100% deployment success | [GitHub Repo](https://github.com/harshu3102/cicd-pipeline) |
+
+</details>
+
+---
+
+## 💼 Experience
+
+**DevOps Engineer**  
+*Betamonks Technology Factory Pvt Ltd*  
+*Aug 2022 – Present (~4 years)*  
+
+- Automated infrastructure provisioning using Terraform  
+- Developed Ansible playbooks for configuration management  
+- Integrated Jenkins pipelines with Git repositories  
+- Implemented Git branching strategies (GitFlow, feature branching)  
+- Streamlined build/test processes with Maven  
+
+**Skills:** Terraform, Ansible, Jenkins, Git, AWS, Maven, CI/CD, IaC  
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| Deployment Success | Achieved 100% deployment success across 20+ banking clients |
+| System Uptime | Maintained 99.9% uptime in financial systems |
+| Release Optimization | Reduced release cycle time by 30% |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshu3102&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshu3102&theme=radical&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu3102&layout=compact&theme=radical&title_color=8A2BE2"/>
+</p>
