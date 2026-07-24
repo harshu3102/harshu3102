@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=8A2BE2&width=600&lines=DevOps+Engineer+%7C+Cloud+Solutions;CI%2FCD+Automation+%7C+Infrastructure+as+Code;Full+Stack+Engineering+Mindset;AI%2FML+Exploration+%7C+Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=8A2BE2&width=600&lines=DevOps+Engineer+%7C+Cloud+Solutions;CI%2FCD+Automation+%7C+Infrastructure+as+Code;AI%2FML+Exploration+%7C+Open+Source+Contributor"/>
 </p>
 
 <p align="center">
@@ -25,12 +25,12 @@
 ---
 
 ## 👩‍💻 About Me
-DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipelines, cloud infrastructure automation, and high-availability systems for financial clients. Skilled in AWS, Jenkins, Docker, Kubernetes, Terraform, and Ansible. Passionate about AI/ML integration into DevOps workflows, full-stack development, and product engineering with a focus on scalability, reliability, and security.
+DevOps Engineer with nearly 4 years of experience in enterprise-grade CI/CD pipelines, cloud infrastructure automation, and high-availability systems for financial clients. Skilled in AWS, Jenkins, Docker, Kubernetes, Terraform, and Ansible. Passionate about AI/ML integration into DevOps workflows, product engineering, and building scalable, reliable, and secure systems.
 
 **Open To:**  
 - Cloud Engineering Roles  
 - AI/ML Engineering Opportunities  
-- Full Stack Product Development  
+- Product Development  
 - Open Source Collaboration  
 
 ---
@@ -153,6 +153,3 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshu3102/harshu3102/output/snake.svg"/>
-</p>
-
