@@ -131,25 +131,3 @@ Developed Jenkins pipelines integrated with GitHub Actions for Java applications
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshu3102&theme=radical&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu3102&layout=compact&theme=radical&title_color=8A2BE2"/>
 </p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshu3102&theme=onedark&no-frame=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshu3102&theme=react-dark&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
